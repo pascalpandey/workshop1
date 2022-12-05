@@ -1,5 +1,5 @@
 body, html {
-    height: 100%;
+    height: 100vh;
     margin: 0;
     background-color: #fbf5e2;
   }  
@@ -20,40 +20,40 @@ body, html {
     position: relative;
     height: 7.5%;
     transform: rotate(75deg);
-    top: 20%;
-    left: 50%;
+    top: 20vh;
+    left: 50vw;
 }
 
 #x2 {
     position: relative;
     height: 7.5%;
     transform: rotate(105deg);
-    top: 43%;
-    left: 40%;
+    top: 43vh;
+    left: 40vw;
 }
 
 #x3 {
     position: relative;
     height: 7.5%;
     transform: rotate(70deg);
-    top: 57%;
-    left: 46%;
+    top: 57vh;
+    left: 46vw;
 }
 
 #x4 {
     position: relative;
     height: 7.5%;
     transform: rotate(75deg);
-    top: 71%;
-    left: 31%;
+    top: 70vh;
+    left: 30vw;
 }
 
 #x5 {
     position: relative;
     height: 7.5%;
     transform: rotate(105deg);
-    top: 38%;
-    left: 42.5%;
+    top: 38vh;
+    left: 42.5vw;
 }
   
 #x1:hover{
