@@ -6,11 +6,7 @@ body, html {
 
 .bg {
     background-image: url("DALL·E\ 2022-11-07\ 00.34.16\ -\ treasure\ map\ one\ piece.png");
-  
-    /* Full height */
-    height: 100%; 
-  
-    /* Center and scale the image nicely */
+    height: 100vh; 
     background-position: center;
     background-repeat: no-repeat;
     background-size: 50%;
