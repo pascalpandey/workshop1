@@ -9,7 +9,7 @@ body, html {
     height: 100vh; 
     background-position: center;
     background-repeat: no-repeat;
-    background-size: 60%;
+    background-size: 55vw;
   }
 
 #x1 {
@@ -85,7 +85,7 @@ body, html {
 
 .title{
     font-family: bug;
-    font-size: 6.05vw;
+    font-size: 5.5vw;
     font-weight:bold;
     line-height: 40%;
 }
